@@ -1,0 +1,40 @@
+body{
+    background-color: #FFE8E8;
+    text-align: center;
+    font-family:cursive;
+    margin: 0;
+}
+.one{
+    padding-top: 50px;
+}
+
+
+
+.three{
+    position: absolute;
+    left: 50px;
+    top: 150px;
+
+}
+h1{
+    font-size: 90px;
+    font-family: 'Pacifico', cursive;
+    color: #FF9292;
+    margin: 0;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #FFB4B4;
+  width: 20%;
+  border-width: 5px;
+}
+h2{
+    color: #FFB4B4;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.five{
+    text-align: center;
+}
+
